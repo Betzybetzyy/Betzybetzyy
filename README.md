@@ -6,6 +6,7 @@
    “data” :
      {
       "Linkedin" : "https://www.linkedin.com/in/betzabet-pe%C3%B1a-nu%C3%B1ez/",
+      "Curriculum": "https://drive.google.com/drive/folders/1GkvhSopRrOZdODR7uRWiNvS25TUDQS2z?usp=sharing"
      }
  }
 ```
